@@ -12,11 +12,26 @@
                 pos = float4(objPos,0,1); //CVV裁剪，Cube是-0.5到0.5的 所以永远都是一半，因为屏幕是从-1到1的
                 //col = float4(0,0,1,1);
 
-                if(pos.x<0)
+                if(pos.x<0 && pos.y<0)
+                {
+                    col = float4(1,0,0,1);
+                }
+                else if(pos.x<0)
+                {
+                    col = float4(0,1,0,1);
+                }
+                else if(pos.y>0)
+                {
+                    col = float4(1,1,0,1);
+                }
+                else
+                {
+                    col = float4(0,0,1,1);
+                }
+                //按老师的讲的四个角会变色的，我的不变，可能是DX11的事
 
 
-
-                col = pos; //虽然语义不同，但是类型相同时可以赋值的.Cube里的模型信息里存的是 x-0.5 +0.5 y -0.5 +0.5 的  所以颜色就是能分析出来的。
+                //col = pos; //虽然语义不同，但是类型相同时可以赋值的.Cube里的模型信息里存的是 x-0.5 +0.5 y -0.5 +0.5 的  所以颜色就是能分析出来的。
             }
             void frag(inout float4 col:COLOR)  //顶点程序对颜色输出了，在片段程序里不加处理直接输入再输出所以是inout
             {
@@ -36,8 +51,39 @@
                 //        col = float4(0,0,1,1);
                 //        break;
                 //}
+                
+                int i = 0;
+
+                //CG有while
+                while(i<10)
+                {
+                    i++;
+                }
+                if(i == 10)
+                {
+                    col = float4(0,0,0,1);
+                }
 
 
+                i = 0;
+                //有do while
+                do{
+                    i++;
+                }                
+                while(i<10);
+                
+                if(i == 10)
+                {
+                    col = float4(1,1,1,1);
+                }
+
+                //有for循环
+                for(i=0;i<1023;i++){ //最大循环次数是1024-1
+                }
+                if(i == 1023)
+                {
+                    col = float4(0.5,0.5,0,1);
+                }
             }
 			
             ENDCG
