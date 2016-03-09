@@ -1,240 +1,54 @@
 Base path: D:/Program Files/Unity5.3.3f1/Editor/Data
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=3402 outsize=207 ok=1
+  insize=2256 outsize=207 ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): undeclared identifier 'Func2'\nCompiling Vertex program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=0 insize=2346 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): undeclared identifier 'Func2'\nCompiling Fragment program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=1 insize=2346 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
 Cmd: preprocess
-  insize=3402 outsize=207 ok=1
+  insize=2258 outsize=207 ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): undeclared identifier 'Func2'\nCompiling Vertex program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=0 insize=2348 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): undeclared identifier 'Func2'\nCompiling Fragment program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=1 insize=2348 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
 Cmd: preprocess
-  insize=3402 outsize=207 ok=1
+  insize=2258 outsize=207 ok=1
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): undeclared identifier 'Func2'\nCompiling Vertex program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=0 insize=2348 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (41): undeclared identifier 'Func2'\nCompiling Fragment program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=1 insize=2348 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
 Cmd: preprocess
-  insize=1195 outsize=207 ok=1
+  insize=2302 outsize=207 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (18): undeclared identifier 'Func'\nCompiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=4 type=0 insize=1285 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+  error: 1 plat 8 at sbin/sbin.cginc(4): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=0 insize=2392 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  error: 1 plat 8 at sbin/sbin.cginc(4): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
+Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=8 type=1 insize=2392 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
 Cmd: preprocess
-  insize=1361 outsize=207 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1451 outsize=345 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1451 outsize=213 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+  insize=2302 outsize=207 ok=1
 Cmd: preprocess
-  insize=1361 outsize=207 ok=1
+  insize=2524 outsize=207 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (23): undeclared identifier 'Func'\nCompiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=4 type=0 insize=1451 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=1458 outsize=207 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1548 outsize=345 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1548 outsize=213 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=1466 outsize=207 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1556 outsize=345 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (25): function 'Func' missing implementation\nCompiling Fragment program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=4 type=1 insize=1556 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=1507 outsize=206 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (25): 'Func': no matching 1 parameter function\nCompiling Vertex program
-Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=4 type=0 insize=1597 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=1515 outsize=206 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1605 outsize=345 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1605 outsize=213 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2131 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 2 plat 8 at (17): undeclared identifier 'i'\nCompiling Vertex program
+  error: 1 plat 8 at sbin/sbin.cginc(4): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
 Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2221 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+  api=8 type=0 insize=2614 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
 Cmd: compileSnippet
-  error: 2 plat 8 at (17): undeclared identifier 'i'\nCompiling Fragment program
+  error: 1 plat 8 at sbin/sbin.cginc(4): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
 Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2221 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=2180 outsize=205 ok=1
-Cmd: compileSnippet
-  error: 2 plat 8 at (17): undeclared identifier 'i'\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2270 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: compileSnippet
-  error: 2 plat 8 at (17): undeclared identifier 'i'\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2270 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=2184 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 2 plat 8 at (17): invalid subscript 'length'\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2274 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: compileSnippet
-  error: 2 plat 8 at (17): invalid subscript 'length'\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2274 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=2184 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 2 plat 8 at (17): invalid subscript 'length'\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2274 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: compileSnippet
-  error: 2 plat 8 at (17): invalid subscript 'length'\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2274 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=2184 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2274 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  error: 2 plat 8 at (19): literal loop terminated early due to out of bounds array access\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  error: 2 plat 8 at (19): variable 'sum' used without having been completely initialized\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2274 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=2183 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2273 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  error: 2 plat 8 at (19): variable 'sum' used without having been completely initialized\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2273 outsize=0 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
-Cmd: preprocess
-  insize=2204 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2294 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2294 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2202 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2292 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2292 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2200 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2290 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2290 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2202 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2292 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (17): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2292 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2209 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2299 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2299 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2207 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2297 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2297 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2207 outsize=207 ok=1
-Cmd: preprocess
-  insize=2213 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2303 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2303 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2249 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2339 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2339 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2207 outsize=207 ok=1
-Cmd: preprocess
-  insize=2207 outsize=207 ok=1
-Cmd: preprocess
-  insize=2207 outsize=207 ok=1
-Cmd: preprocess
-  insize=2207 outsize=207 ok=1
-Cmd: preprocess
-  insize=2206 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2296 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2296 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2207 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2297 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2297 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2230 outsize=207 ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Vertex program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=0 insize=2320 outsize=489 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: compileSnippet
-  error: 1 plat 8 at (18): signed/unsigned mismatch, unsigned assumed\nCompiling Fragment program
-Platform defines: UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED
-  api=8 type=1 insize=2320 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
-Cmd: preprocess
-  insize=2230 outsize=207 ok=1
+  api=8 type=1 insize=2614 outsize=361 kw= pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
